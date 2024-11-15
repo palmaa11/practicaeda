@@ -1,2 +1,2 @@
-En principi, totes les opcions del meu codi funcionen correctament. Com a aclariment sobre la meva pràctica vull dir que no he realitzat certes comprovacions d'error en algun exercici per falta de temps, encara que són coses petites sense gran importància.
+En principi, totes les opcions del meu codi funcionen correctament. 
 També vull destacar que en la opció 9, he fet un atribut dintre de la classe padró. L'enunciat diu que no ho fem si no resulta un estalvi de temps molt significatiu. Des del meu punt de vista en aquest apartat ens estalviem una bona feina. Això és degut a que si no creem un atribut per fer-lo servir en el llegirDades de padró hem de recorrer persona per persona, suposant això una pèrdua d'eficiència bastant important.
